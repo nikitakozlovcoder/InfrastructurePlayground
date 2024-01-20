@@ -1,6 +1,5 @@
 ﻿using System.Diagnostics;
 using KafkaFlow;
-using LoggingPlayground;
 using Messaging.Contracts;
 using Microsoft.Extensions.Logging;
 using OpenTelemetry;

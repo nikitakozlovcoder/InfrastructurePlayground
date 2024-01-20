@@ -1,5 +1,5 @@
 ﻿using System.Diagnostics.Metrics;
-using LoggingPlayground;
+using Messaging;
 using Messaging.Contracts;
 using Microsoft.AspNetCore.Mvc;
 using Services.Files;

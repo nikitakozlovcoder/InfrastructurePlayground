@@ -1,4 +1,4 @@
-﻿using LoggingPlayground;
+﻿using Messaging;
 using Messaging.Contracts;
 using Messaging.HelloMessages;
 using Services.Files;

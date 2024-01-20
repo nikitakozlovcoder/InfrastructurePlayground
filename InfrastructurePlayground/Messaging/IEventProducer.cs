@@ -1,4 +1,4 @@
-﻿namespace LoggingPlayground;
+﻿namespace Messaging;
 
 public interface IEventProducer<in T>
 {
